@@ -2,56 +2,33 @@
 
 - [K-Nearest-Neighbor Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=10%20minutes%20ago-,KNN,-Add%20files%20via)
 
-- Ridge Regression
+- [Ridge Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=22%20minutes%20ago-,Ridge-Regression,-Update%20and%20rename)
 
-- LASSO Regression
+- [LASSO Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=1%20hour%20ago-,Lasso,-Add%20files%20via)
 
-- ROC 
+- [ROC](https://github.com/JanLeyva/Machine_Learning#:~:text=14%20minutes%20ago-,ROC_Curve,-updated%20README)
 
-- Estimating the conditional variance by local linear regression
+- [Estimating the conditional variance by local linear regression]
 
-- Local Poisson Regression
+- [Local Poisson Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=Local_Poisson_bandwidth)
 
-- Smoothing and Regression Splines
+- [Smoothing and Regression Splines](https://github.com/JanLeyva/Machine_Learning#:~:text=Smoothing-and-regression-splines)
 
-- GAM
+- [GAM](https://github.com/JanLeyva/Machine_Learning#:~:text=1%20hour%20ago-,GAM,-commit%20GAM)
 
-- Regression Tree
+- [Regression Tree](https://github.com/JanLeyva/Machine_Learning#:~:text=24%20minutes%20ago-,Ridge-Regression,-Update%20and%20rename)
 
-- CNN and CAE
+- [Convolutional Neural Network and Convolutional Autoencoder]
 
 # Scientifict Python
 
 - [Eigenface from chambers photos](https://github.com/JanLeyva/Machine_Learning/tree/main/EigenDiputados)
 
-### Markdown
+# Optimization in Data Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Cluster median problem
+- Support Vector Machine - Optimization Function
 
-```markdown
-Syntax highlighted code block
+# Time Series
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JanLeyva/Portafolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ARIMAX model
