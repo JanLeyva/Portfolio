@@ -1,10 +1,31 @@
-## Welcome to GitHub Pages
+# Machine/Statistical learning
 
-You can use the [editor on GitHub](https://github.com/JanLeyva/Portafolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## [K-Nearest-Neighbor Regression]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Ridge Regression
+
+## LASSO Regression
+
+## ROC 
+
+## Estimating the conditional variance by local linear regression
+
+## Local Poisson Regression
+
+## Smoothing and Regression Splines
+
+## GAM
+
+## Regression Tree
+
+## CNN and CAE
+
+
+
+
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
