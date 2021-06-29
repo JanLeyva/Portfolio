@@ -1,8 +1,8 @@
 # Machine/Statistical learning
 
-- Eigenface from chambers photos
+- [Eigenface from chambers photos](https://github.com/JanLeyva/Machine_Learning/tree/main/EigenDiputados)
 
-- [K-Nearest-Neighbor Regression]
+- [K-Nearest-Neighbor Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=10%20minutes%20ago-,KNN,-Add%20files%20via)
 
 - Ridge Regression
 
