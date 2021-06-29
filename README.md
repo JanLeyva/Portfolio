@@ -26,9 +26,9 @@
 
 # Optimization in Data Science
 
-- Cluster median problem
+- [Cluster median problem](https://github.com/JanLeyva/Optimisation_Data_Science/tree/main/Project%20Cluster-Median)
 - Support Vector Machine - Optimization Function
 
 # Time Series
 
-- ARIMAX model
+- [ARIMAX model](https://github.com/JanLeyva/Time_Series/tree/main/ARIMAX_project)
