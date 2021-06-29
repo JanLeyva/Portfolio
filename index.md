@@ -1,25 +1,26 @@
 # Machine/Statistical learning
 
-## [K-Nearest-Neighbor Regression]
+### Eigenface from chambers photos
 
+### [K-Nearest-Neighbor Regression]
 
-## Ridge Regression
+### Ridge Regression
 
-## LASSO Regression
+### LASSO Regression
 
-## ROC 
+### ROC 
 
-## Estimating the conditional variance by local linear regression
+### Estimating the conditional variance by local linear regression
 
-## Local Poisson Regression
+### Local Poisson Regression
 
-## Smoothing and Regression Splines
+### Smoothing and Regression Splines
 
-## GAM
+### GAM
 
-## Regression Tree
+### Regression Tree
 
-## CNN and CAE
+### CNN and CAE
 
 
 
