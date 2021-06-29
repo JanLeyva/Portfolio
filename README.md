@@ -1,12 +1,12 @@
 # Machine/Statistical learning
 
-- [K-Nearest-Neighbor Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=10%20minutes%20ago-,KNN,-Add%20files%20via)
+- [K-Nearest-Neighbor Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/KNN)
 
-- [Ridge Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=22%20minutes%20ago-,Ridge-Regression,-Update%20and%20rename)
+- [Ridge Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/Ridge-Regression)
 
-- [LASSO Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=1%20hour%20ago-,Lasso,-Add%20files%20via)
+- [LASSO Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/Lasso)
 
-- [ROC](https://github.com/JanLeyva/Machine_Learning#:~:text=14%20minutes%20ago-,ROC_Curve,-updated%20README)
+- [ROC](https://github.com/JanLeyva/Machine_Learning/tree/main/ROC_Curve)
 
 - [Estimating the conditional variance by local linear regression]
 
@@ -14,9 +14,9 @@
 
 - [Smoothing and Regression Splines](https://github.com/JanLeyva/Machine_Learning#:~:text=Smoothing-and-regression-splines)
 
-- [GAM](https://github.com/JanLeyva/Machine_Learning#:~:text=1%20hour%20ago-,GAM,-commit%20GAM)
+- [GAM](https://github.com/JanLeyva/Machine_Learning/tree/main/GAM)
 
-- [Regression Tree](https://github.com/JanLeyva/Machine_Learning#:~:text=24%20minutes%20ago-,Ridge-Regression,-Update%20and%20rename)
+- [Regression Tree](https://github.com/JanLeyva/Machine_Learning/tree/main/Tree_models)
 
 - [Convolutional Neural Network and Convolutional Autoencoder]
 
