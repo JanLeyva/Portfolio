@@ -1,8 +1,26 @@
-## Welcome to GitHub Pages
+# Machine/Statistical learning
 
-You can use the [editor on GitHub](https://github.com/JanLeyva/Portafolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- Eigenface from chambers photos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [K-Nearest-Neighbor Regression]
+
+- Ridge Regression
+
+- LASSO Regression
+
+- ROC 
+
+- Estimating the conditional variance by local linear regression
+
+- Local Poisson Regression
+
+- Smoothing and Regression Splines
+
+- GAM
+
+- Regression Tree
+
+- CNN and CAE
 
 ### Markdown
 
