@@ -32,3 +32,5 @@
 # Time Series
 
 - [ARIMAX model](https://github.com/JanLeyva/Time_Series/tree/main/ARIMAX_project)
+
+[Check it out, web Github](https://janleyva.github.io/Portafolio/)
