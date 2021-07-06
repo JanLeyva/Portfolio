@@ -18,7 +18,7 @@
 
 - [Regression Tree](https://github.com/JanLeyva/Machine_Learning/tree/main/Tree_models)
 
-- [Convolutional Neural Network and Convolutional Autoencoder]
+- [Convolutional Neural Network and Convolutional Autoencoder](https://github.com/JanLeyva/CNN)
 
 # Scientifict Python
 
@@ -33,4 +33,4 @@
 
 - [ARIMAX model](https://github.com/JanLeyva/Time_Series/tree/main/ARIMAX_project)
 
-[Check it out, web Github](https://janleyva.github.io/Portafolio/)
+Check it out, [web Github](https://janleyva.github.io/Portafolio/)
