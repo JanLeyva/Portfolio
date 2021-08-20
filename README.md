@@ -8,8 +8,6 @@
 
 - [ROC](https://github.com/JanLeyva/Machine_Learning/tree/main/ROC_Curve)
 
-- [Estimating the conditional variance by local linear regression]
-
 - [Local Poisson Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=Local_Poisson_bandwidth)
 
 - [Smoothing and Regression Splines](https://github.com/JanLeyva/Machine_Learning#:~:text=Smoothing-and-regression-splines)
