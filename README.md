@@ -26,8 +26,8 @@
 
 # Optimization in Data Science
 
-- [Cluster median problem](https://github.com/JanLeyva/Optimisation_Data_Science/tree/main/Project%20Cluster-Median)
-- Support Vector Machine - Optimization Function
+- [Cluster median problem](https://github.com/JanLeyva/Optimization_DS/tree/main/Project%20Cluster-Median)
+- [Support Vector Machine - from scratch](https://github.com/JanLeyva/Optimization_DS/tree/main/svm-from-scratch)
 
 # Time Series
 
