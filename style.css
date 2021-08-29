@@ -1,3 +1,4 @@
+
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
@@ -22,8 +23,6 @@ h2,.white{
 a{
     color: #7A7C80;
     text-decoration: none;
-    display: inline-block;
-    text-align: center;
 }
 /* section 1 */
 .section-1{
@@ -64,7 +63,7 @@ a{
 }
 
 .section-2 a{
-    display: inline-block;
+    display: block;
     padding: 5px;
     font-size: 1.2rem;
     padding-left: 0;
@@ -104,3 +103,5 @@ a{
         padding-top: 2rem;
     }
 }
+
+
