@@ -44,7 +44,6 @@ a{
 .section-1 a{
     font-size: 1.5rem;
     padding: 10px;
-    margin:0;
 }
 /* section 2 */
 .section-2{
@@ -69,7 +68,6 @@ a{
     font-size: 1.2rem;
     padding-left: 0;
     width: 100px;
-    margin:0;
 }
 /* animations / utilities */
 .section-2 a:hover{
@@ -77,14 +75,12 @@ a{
     color: #fff;
     cursor: pointer;
     transition: 0.2s;
-    margin:0;
 }
 
 .section-1 a:hover{
     color: #fff;
     cursor: pointer;
     transition: 0.3s;
-    margin:0;
 }
 
 .white:hover{
@@ -107,5 +103,3 @@ a{
         padding-top: 2rem;
     }
 }
-
-
