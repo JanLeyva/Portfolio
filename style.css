@@ -22,6 +22,7 @@ h2,.white{
 a{
     color: #7A7C80;
     text-decoration: none;
+    display: inline-block;
 }
 /* section 1 */
 .section-1{
