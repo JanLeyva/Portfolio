@@ -1,22 +1,22 @@
 # Machine/Statistical learning
 
-- [K-Nearest-Neighbor Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/KNN)
+1. [K-Nearest-Neighbor Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/KNN)
 
-- [Ridge Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/Ridge-Regression)
+1. [Ridge Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/Ridge-Regression)
 
-- [LASSO Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/Lasso)
+1. [LASSO Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/Lasso)
 
-- [ROC](https://github.com/JanLeyva/Machine_Learning/tree/main/ROC_Curve)
+1. [ROC](https://github.com/JanLeyva/Machine_Learning/tree/main/ROC_Curve)
 
-- [Local Poisson Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=Local_Poisson_bandwidth)
+1. [Local Poisson Regression](https://github.com/JanLeyva/Machine_Learning#:~:text=Local_Poisson_bandwidth)
 
-- [Smoothing and Regression Splines](https://github.com/JanLeyva/Machine_Learning#:~:text=Smoothing-and-regression-splines)
+1. [Smoothing and Regression Splines](https://github.com/JanLeyva/Machine_Learning#:~:text=Smoothing-and-regression-splines)
 
-- [GAM](https://github.com/JanLeyva/Machine_Learning/tree/main/GAM)
+1. [GAM](https://github.com/JanLeyva/Machine_Learning/tree/main/GAM)
 
-- [Regression Tree](https://github.com/JanLeyva/Machine_Learning/tree/main/Tree_models)
+1. [Regression Tree](https://github.com/JanLeyva/Machine_Learning/tree/main/Tree_models)
 
-- [Convolutional Neural Network and Convolutional Autoencoder](https://github.com/JanLeyva/CNN)
+1. [Convolutional Neural Network and Convolutional Autoencoder](https://github.com/JanLeyva/CNN)
 
 # Scientifict Python
 
@@ -24,8 +24,8 @@
 
 # Optimization in Data Science
 
-- [Cluster median problem](https://github.com/JanLeyva/Optimization_DS/tree/main/Project%20Cluster-Median)
-- [Support Vector Machine - from scratch](https://github.com/JanLeyva/Optimization_DS/tree/main/svm-from-scratch)
+1. [Cluster median problem](https://github.com/JanLeyva/Optimization_DS/tree/main/Project%20Cluster-Median)
+1. [Support Vector Machine - from scratch](https://github.com/JanLeyva/Optimization_DS/tree/main/svm-from-scratch)
 
 # Time Series
 
