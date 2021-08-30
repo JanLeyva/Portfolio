@@ -39,6 +39,8 @@ a{
 .section-1 p2{
     font-size: 1.1rem;
     padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     margin:0.5;
     text-align: justify;
 }
