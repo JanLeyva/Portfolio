@@ -28,11 +28,15 @@ a{
 .section-1{
     padding-top: 40vh;
     text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .section-1 p{
     font-size: 1.1rem;
     padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     margin:0.5;
 }
 
