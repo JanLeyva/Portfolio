@@ -26,7 +26,7 @@ a{
 }
 /* section 1 */
 .section-1{
-    padding-top: 40vh;
+    padding-top: 20vh;
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
@@ -107,7 +107,7 @@ a{
     }
     .section-1{
         padding:0;
-        padding-top: 1.5rem;
+        padding-top: 5rem;
         padding-left: 1.5rem;
     }
     .section-2{
