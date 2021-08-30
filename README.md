@@ -8,7 +8,7 @@
 
 1. [ROC](https://github.com/JanLeyva/Machine_Learning/tree/main/ROC_Curve)
 
-1. [Local Poisson bandwidth choosing](https://github.com/JanLeyva/Machine_Learning#:~:text=Local_Poisson_bandwidth)
+1. [Local Poisson bandwidth choosing](https://github.com/JanLeyva/Machine_Learning/tree/main/Local_Poisson_bandwidth)
 
 1. [Smoothing and Regression Splines](https://github.com/JanLeyva/Machine_Learning#:~:text=Smoothing-and-regression-splines)
 
