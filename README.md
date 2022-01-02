@@ -21,6 +21,8 @@
 # Deep Learning
 1. [Neural Network from scratch](https://github.com/JanLeyva/DeepLearning/blob/main/1st_Assignment_nn_scratch/1st_Assignment_Jan_Leyva.ipynb)
 2. [Face keypoint detection](https://github.com/JanLeyva/DeepLearning/blob/main/FacialPointDetection.ipynb)
+3. [Attention mechanism](https://github.com/JanLeyva/DeepLearning/blob/main/Assignment3_2021.ipynb)
+  * [Blog about mechanism](https://hackmd.io/@JanLeyva/r167c459Y): in this article I explain brifly the attention mechanism in RNN.
 
 # Scientifict Python
 
