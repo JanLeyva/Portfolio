@@ -1,3 +1,9 @@
+# Currently working on...
+
+1. [Multimodal models for Classification of Hate Speech](https://github.com/JanLeyva/approach_TFM)
+Repository that contains all code and notebooks to reproduce the results for the Memes Hateful Competition by FacebookAI.
+
+
 # Machine/Statistical learning
 
 1. [K-Nearest-Neighbor Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/KNN)
