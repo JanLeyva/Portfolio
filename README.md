@@ -4,6 +4,20 @@
 Repository that contains all code and notebooks to reproduce the results for the Memes Hateful Competition by FacebookAI.
 
 
+# Deep Learning
+1. [Neural Network from scratch](https://github.com/JanLeyva/DeepLearning/blob/main/1st_Assignment_nn_scratch/1st_Assignment_Jan_Leyva.ipynb)
+2. [Face keypoint detection](https://github.com/JanLeyva/DeepLearning/blob/main/FacialPointDetection.ipynb)
+3. [Attention mechanism](https://github.com/JanLeyva/DeepLearning/blob/main/Assignment3_2021.ipynb)
+  * [Blog about Atttention mechanism](https://hackmd.io/@JanLeyva/r167c459Y): in this article I explain brifly the attention mechanism in RNN.
+
+
+# Optimization in Data Science
+
+1. [Cluster median problem as optimization problem in Ampl](https://github.com/JanLeyva/Optimization_DS/tree/main/Project%20Cluster-Median)
+1. [Support Vector Machine - from scratch](https://github.com/JanLeyva/Optimization_DS/tree/main/svm-from-scratch)
+
+
+
 # Machine/Statistical learning
 
 1. [K-Nearest-Neighbor Regression](https://github.com/JanLeyva/Machine_Learning/tree/main/KNN)
@@ -24,20 +38,10 @@ Repository that contains all code and notebooks to reproduce the results for the
 
 1. [Convolutional Neural Network and Convolutional Autoencoder](https://github.com/JanLeyva/CNN)
 
-# Deep Learning
-1. [Neural Network from scratch](https://github.com/JanLeyva/DeepLearning/blob/main/1st_Assignment_nn_scratch/1st_Assignment_Jan_Leyva.ipynb)
-2. [Face keypoint detection](https://github.com/JanLeyva/DeepLearning/blob/main/FacialPointDetection.ipynb)
-3. [Attention mechanism](https://github.com/JanLeyva/DeepLearning/blob/main/Assignment3_2021.ipynb)
-  * [Blog about Atttention mechanism](https://hackmd.io/@JanLeyva/r167c459Y): in this article I explain brifly the attention mechanism in RNN.
+1. [Eigenface from chambers photos](https://github.com/JanLeyva/Machine_Learning/tree/main/EigenDiputados)
 
-# Scientifict Python
 
-- [Eigenface from chambers photos](https://github.com/JanLeyva/Machine_Learning/tree/main/EigenDiputados)
 
-# Optimization in Data Science
-
-1. [Cluster median problem as optimization problem in Ampl](https://github.com/JanLeyva/Optimization_DS/tree/main/Project%20Cluster-Median)
-1. [Support Vector Machine - from scratch](https://github.com/JanLeyva/Optimization_DS/tree/main/svm-from-scratch)
 
 # Time Series
 
